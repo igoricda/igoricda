@@ -5,7 +5,7 @@ ENGLISH:
 
 PORTUGUÊS:
 - 👋 Oi, eu sou @igoricda
-- 🌱 Atualmente, estou cursando Ciência da Computação, na UNIOESTE - Campus de Cascavel
+- 🌱 Atualmente, estou cursando Ciência da Computação, na Universidade Estadual do Oeste do Paraná - Campus de Cascavel
 - 📫 Como contatar-me: igoricda@gmail.com
 
 <!---
