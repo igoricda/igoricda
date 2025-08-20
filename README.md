@@ -1,6 +1,6 @@
 ENGLISH:
 - 👋 Hi, I’m @igoricda
-- 🌱 I’m currently studying for a Bachelor's Degree in Computer Science at UNIOESTE - Cascavel's Campus
+- 🌱 I’m currently an undergraduate in Computer Science at UNIOESTE (Western Paraná State University) - Cascavel's Campus
 - 📫 How to reach me: igoricda@gmail.com
 
 PORTUGUÊS:
