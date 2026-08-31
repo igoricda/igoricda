@@ -8,6 +8,8 @@ PORTUGUÊS:
 -  Atualmente, estou cursando Ciência da Computação, na Universidade Estadual do Oeste do Paraná - Campus de Cascavel
 -  Como contatar-me: igoricda@gmail.com
 
+
+https://github-stats-extended.vercel.app/api?username=igoricda&theme=radical
 <!---
 igoricda/igoricda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
