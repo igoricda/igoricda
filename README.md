@@ -8,7 +8,7 @@ PORTUGUÊS:
 -  Atualmente, estou cursando Ciência da Computação, na Universidade Estadual do Oeste do Paraná - Campus de Cascavel
 -  Como contatar-me: igoricda@gmail.com
 
-[![Igor's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=igoricda)](https://github.com/stats-organization/github-stats-extended)
+[![Igor's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=igoricda&hide=html,css,tex&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 <!---
 igoricda/igoricda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
